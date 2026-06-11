@@ -5,7 +5,7 @@
 ![Privacy](https://shields.io)
 ![Platform](https://shields.io)
 
-Ein hochpräzises, vollständig datenschutzkonformes Desktop-Werkzeug zur automatisierten Metadaten-Extraktion aus technischen Dokumenten. 
+Ein hochpräzises, vollständig datenschutzkonformes Desktop-Werkzeug zur automatisierten Metadaten-Extraktion aus pdf Dokumenten. 
 
 Durch die Kombination aus hochauflösender Bild-Vorschaltung (PyMuPDF + Tesseract) und einem **lokalen Sprachmodell** verarbeitet und versteht das Programm Dokumente wie ein menschliches Auge und Gehirn – komplett ohne Internetverbindung und lauffähig als eigenständige Windows-Anwendung (`.exe`).
 
