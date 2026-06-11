@@ -70,7 +70,7 @@ Nach Abschluss des Vorgangs finden Sie Ihre einsatzbereite Anwendung im Ordner *
 
 ## 📋 Struktur des Excel-Exports
 
-Das Tool bereinigt Klassifizierungs-Rauschen (ICS-Nummern) am Anfang und fehlerhafte Anhängsel vollautomatisch:
+Das Tool bereinigt fehlerhafte Anhängsel vollautomatisch:
 
 | Spalte | Extraktions-Quelle | Beispiel-Ergebnis |
 | :--- | :--- | :--- |
