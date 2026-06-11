@@ -52,18 +52,18 @@ pip install openpyxl pymupdf pytesseract pillow ollama pyinstaller
 Um die eigenständige Windows-Anwendung ohne Terminal-Zwang selbst zu generieren, führen Sie folgenden Befehl im Projektordner aus:
 
 ```bash
-pyinstaller --noconfirm --onedir --windowed --name "Normen_Extraktor" normen_extraktor.py
+pyinstaller --noconfirm --onedir --windowed --name "Normen_Extraktor" pdf_extraktor.py
 ```
 
-Nach Abschluss des Vorgangs finden Sie Ihre einsatzbereite Anwendung im Ordner **`dist/Normen_Extraktor/Normen_Extraktor.exe`**. Sie können von dieser Datei einfach eine Verknüpfung auf Ihrem Desktop erstellen.
+Nach Abschluss des Vorgangs finden Sie Ihre einsatzbereite Anwendung im Ordner **`dist/PDF_Extraktor/PDF_Extraktor.exe`**. Sie können von dieser Datei einfach eine Verknüpfung auf Ihrem Desktop erstellen.
 
 ---
 
 ## 🚀 Verwendung
 
-1. Starten Sie die Anwendung per Doppelklick auf die **`Normen_Extraktor.exe`** (oder via Terminal mit `python normen_extraktor.py`).
-2. **Schritt 1:** Wählen Sie über den oberen "Durchsuchen"-Button den Ordner aus, der Ihre Normen-PDFs enthält.
-3. **Schritt 2:** Wählen Sie über "Speichern unter" den Zielpfad und einen neuen Namen für Ihre Excel-Datei aus (z. B. `Normen_Uebersicht.xlsx`).
+1. Starten Sie die Anwendung per Doppelklick auf die **`PDF_Extraktor.exe`** (oder via Terminal mit `python pdf_extraktor.py`).
+2. **Schritt 1:** Wählen Sie über den oberen "Durchsuchen"-Button den Ordner aus, der Ihre PDFs enthält.
+3. **Schritt 2:** Wählen Sie über "Speichern unter" den Zielpfad und einen neuen Namen für Ihre Excel-Datei aus (z. B. `Pdf_Uebersicht.xlsx`).
 4. Klicken Sie auf **"KI-Extraktion starten"**. Der Fortschrittsbalken zählt flüssig nach oben.
 
 ---
