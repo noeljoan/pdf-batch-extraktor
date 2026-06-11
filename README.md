@@ -52,7 +52,7 @@ pip install openpyxl pymupdf pytesseract pillow ollama pyinstaller
 Um die eigenständige Windows-Anwendung ohne Terminal-Zwang selbst zu generieren, führen Sie folgenden Befehl im Projektordner aus:
 
 ```bash
-pyinstaller --noconfirm --onedir --windowed --name "Normen_Extraktor" pdf_extraktor.py
+pyinstaller --noconfirm --onedir --windowed --name "pdf_Extraktor" pdf_extraktor.py
 ```
 
 Nach Abschluss des Vorgangs finden Sie Ihre einsatzbereite Anwendung im Ordner **`dist/PDF_Extraktor/PDF_Extraktor.exe`**. Sie können von dieser Datei einfach eine Verknüpfung auf Ihrem Desktop erstellen.
