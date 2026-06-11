@@ -75,7 +75,7 @@ Das Tool bereinigt Klassifizierungs-Rauschen (ICS-Nummern) am Anfang und fehlerh
 | Spalte | Extraktions-Quelle | Beispiel-Ergebnis |
 | :--- | :--- | :--- |
 | **Dateiname** | Name der verarbeiteten Datei | `XXXXXXX.pdf` |
-| **Dokmnummer** | z. B. erkannte Normbezeichnung (isoliert) | `DIN 13` |
+| **Doknummer** | z. B. erkannte Normbezeichnung (isoliert) | `DIN 13` |
 | **Ausgabedatum** | Veröffentlichungsdatum (mehrsprachig) | `August 1968` |
 | **Titel (DE)** | z. B. Bereinigter, offizieller Bautitel | `Metrisches ISO-Gewinde` |
 | **Status** | Platzhalter für interne Workflows | `Unbekannt` |
