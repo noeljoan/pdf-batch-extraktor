@@ -1,4 +1,4 @@
-# 📄 Universal KI Normen-Batch-Extraktor (Local-LLM)
+# 📄 Universal KI Pdf-Batch-Extraktor (Local-LLM)
 
 ![Python](https://shields.io)
 ![Ollama](https://shields.io)
