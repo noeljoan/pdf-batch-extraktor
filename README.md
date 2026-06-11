@@ -13,7 +13,7 @@ Durch die Kombination aus hochauflösender Bild-Vorschaltung (PyMuPDF + Tesserac
 
 ## ✨ Features & Optimierungen (Version 14)
 
-- **🧠 Lokale KI-Intelligenz (Qwen2.5:1.5b):** Nutzt ein hocheffizientes Small Language Model direkt auf Ihrem PC. Die KI liest den erfassten Text im Kontext, isoliert echte Bautitel und ignoriert rechtlichen Standard-Zeichensalat.
+- **🧠 Lokale KI-Intelligenz (Qwen2.5:1.5b):** Nutzt ein hocheffizientes Small Language Model direkt auf Ihrem PC. Die KI liest den erfassten Text im Kontext, isoliert echte Bautitel und ignoriert Zeichensalat.
 - **🔒 100% Offline-Sicherheit (Kein Cloud-Datenabfluss):** Das Skript funktioniert nach dem ersten Modell-Download vollständig im Flugmodus. Es werden **keine** Daten an Drittanbieter (wie OpenAI oder Claude) gesendet oder für das KI-Training missbraucht.
 - **📦 Eigenständige Windows-App (.EXE):** Kann direkt als eigenständiges Programm kompiliert und ohne Terminal oder sichtbare Python-Konsole per Doppelklick gestartet werden.
 - **⚡ Extrem ressourcenschonend:** Das Modell benötigt nur ca. 1 GB Arbeitsspeicher. Die CPU-Last ist minimal – der PC friert während der Verarbeitung nicht ein, und das Tool läuft im Sekundentakt flüssig durch.
